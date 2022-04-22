@@ -11,6 +11,9 @@ For now only KYC "DocumentService" is implemented.
 ## Documentation
 The complete API doc is (here)[https://api.shuftipro.com/api/docs].
 
+## Examples
+Example can be found in Github project : download, and run locally
+
 ## Version
 Mendix 9
 
