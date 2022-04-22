@@ -1,2 +1,2 @@
-# mx--shufti-connector
+# mx-shufti-connector
 Integration with ShuftiPro
