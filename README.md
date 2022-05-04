@@ -15,7 +15,7 @@ The complete API doc is (here)[https://api.shuftipro.com/api/docs].
 Example can be found in Github project : download, and run locally
 
 ## Dependencies
-Commmunity-Commons
+Community-Commons
 
 ## Version
 Mendix 9
